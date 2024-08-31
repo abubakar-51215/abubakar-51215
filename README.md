@@ -6,9 +6,13 @@
 
 <h1 align="center">Welcome to My Professional Tech Portfolio</h1>
 
-<h3 align="center">As a seasoned software developer with a passion for continuous learning, I thrive on mastering new programming languages, diving into game design, and drawing inspiration from music. My dedication to innovation and excellence drives me to embrace new challenges and expand my expertise in the dynamic tech landscape. I am committed to delivering high-quality, scalable solutions and am always open to new opportunities for collaboration and growth.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakar-51215&label=Profile%20views&color=0e75b6&style=flat" alt="abubakar-51215" /> </p>
+
+<h3 align="center">As a seasoned software developer with a passion for continuous learning, I thrive on mastering new programming languages, diving into game design, and drawing inspiration from music. My dedication to innovation and excellence drives me to embrace new challenges and expand my expertise in the dynamic tech landscape. I am committed to delivering high-quality, scalable solutions and am always open to new opportunities for collaboration and growth.</h3>
+
+
+## Skills and Technologies <img src="https://github.com/user-attachments/assets/f8be29be-bf39-4548-a88c-70dd205db02d" title="Skills" alt="Skills" width="40" height="40">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
