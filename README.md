@@ -1,15 +1,12 @@
-
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Your Picture" /></p>
 
-<h1 align="left">Welcome to My Professional Tech Portfolio</h1>
+# Welcome to My Professional Tech Portfolio
 
 ![GitHub followers](https://img.shields.io/github/followers/abubakar-51215?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/abubakar-51215?style=social)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakar-51215&label=Profile%20views&color=0e75b6&style=flat" alt="abubakar-51215" /> </p>
 
-
-<h3 align="left">As a seasoned software developer with a passion for continuous learning, I thrive on mastering new programming languages, diving into game design, and drawing inspiration from music. My dedication to innovation and excellence drives me to embrace new challenges and expand my expertise in the dynamic tech landscape. I am committed to delivering high-quality, scalable solutions and am always open to new opportunities for collaboration and growth.</h3>
-
+As a beginner Full Stack MERN developer, I’m excited about learning new programming skills, exploring game design, and finding inspiration from music. I’m dedicated to creating high-quality solutions and always eager to take on new challenges and work with others to grow in the tech world.
 
 ## Skills and Technologies <img src="https://github.com/user-attachments/assets/f8be29be-bf39-4548-a88c-70dd205db02d" title="Skills" alt="Skills" width="40" height="40">
 
@@ -18,9 +15,9 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
-   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="30" width="40" />          
-  </a>
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="30" width="40" style="filter: url(#brighten);" />
+</a>
 </p>
 
 <h3 align="left">Languages:</h3>
