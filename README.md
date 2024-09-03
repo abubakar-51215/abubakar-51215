@@ -89,6 +89,8 @@ I am always open to exploring new projects and opportunities. Let's connect and 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40">](https://linkedin.com/in/abubaker-amir-6763b5320/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40">](https://app.slack.com/client/T07FW94DP50/C07FYPENHNY)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="1920" />
+
 ## GitHub Stats
 <div>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abubakar-51215&theme=github-dark-blue&hide_border=true&border_radius=12&card_width=496&background=45%2C0D1117%2C1C2431&stroke=8D6F15&currStreakNum=fff&currStreakLabel=fff&sideLabels=58A6FF&fire=FF652F&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
